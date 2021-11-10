@@ -1,6 +1,6 @@
 # Resume Parsing
 
-I built Resume Parsing Project, extract text from Resume and create Dataframe to display Data.
+I built Resume Parsing Project, extract text from resume and create Dataframe to display Data.
 
 I used libraries: 
 1. pdfminer
